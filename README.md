@@ -1,4 +1,5 @@
 com.ideas.management
 ====================
-
-Proyecto Final de carrera, Graduado en Ingeniería Informática
+Javier González Benito
+Proyecto final de carrera
+Graduado en Ingeniería Informática
